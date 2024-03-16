@@ -1,10 +1,10 @@
 # Glowing-Button!
 
-* creating beautiful glowing buttons for your web projects. With Glowing-Button, you can easily add eye-catching buttons that animate with a subtle glowing effect, enhancing the user experience and drawing attention to important calls to action.
+creating beautiful glowing buttons for your web projects. With Glowing-Button, you can easily add eye-catching buttons that animate with a subtle glowing effect, enhancing the user experience and drawing attention to important calls to action.
 
 # see now 
 
-click
+link = https://amar-webdev.github.io/Glowing-Button/
 
 # Contribution:
 
